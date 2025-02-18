@@ -1,0 +1,17 @@
+Dataset,Number of Templates,Mean,Median,Minimum,Maximum,Standard Deviation
+Android,166,2.14,1.0,0,20,3.1
+Apache,6,1.5,1.5,1,2,0.55
+BGL,120,2.18,1.0,0,25,2.85
+HDFS,14,3.64,3.5,1,6,1.34
+HPC,46,1.24,1.0,0,9,1.8
+Hadoop,114,1.75,1.0,0,12,2.24
+HealthApp,75,1.32,1.0,0,8,1.72
+Linux,118,1.19,1.0,0,13,1.65
+Mac,341,3.06,1.0,0,36,4.69
+OpenSSH,27,2.07,2.0,0,4,1.27
+OpenStack,43,2.63,1.0,0,14,2.55
+Proxifier,8,4.5,4.5,2,6,1.31
+Spark,36,1.08,1.0,0,4,1.13
+Thunderbird,149,1.58,1.0,0,10,1.99
+Windows,50,1.4,1.0,0,7,1.62
+Zookeeper,50,1.82,1.0,0,7,1.73
